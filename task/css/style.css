@@ -1099,3 +1099,19 @@ ol {
     max-width: 4000px;
   }
 }
+
+.container3 {
+  display: flex;
+  margin-top: 50px;
+}
+
+.left-grid {
+  width: 100%;
+  height: auto;
+  margin-right: 10px;
+}
+
+.right-grid {
+  width: 100%;
+  height: auto;
+}
